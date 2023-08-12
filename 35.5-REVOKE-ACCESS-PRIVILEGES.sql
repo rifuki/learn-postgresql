@@ -1,0 +1,1 @@
+REVOKE {} ON {} TO {]}

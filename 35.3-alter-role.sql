@@ -1,0 +1,2 @@
+ALTER ROLE aozora LOGIN PASSWORD 'umeko';
+ALTER ROLE iuchi LOGIN PASSWORD 'minori';

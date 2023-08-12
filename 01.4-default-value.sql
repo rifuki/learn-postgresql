@@ -1,0 +1,7 @@
+CREATE TABLE items (
+  code        INT NOT NULL,
+  name        VARCHAR(100) NOT NULL,
+  price       INT NOT NULL DEFAULT 100,
+  amount      INT NOT NULL DEFAULT 0,
+  created_at  TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);

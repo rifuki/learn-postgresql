@@ -1,0 +1,5 @@
+SELECT *
+FROM products
+WHERE price > 0
+ORDER BY name ASC
+LIMIT 2 OFFSET 2;
